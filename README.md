@@ -16,3 +16,12 @@
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I made a pair of custom headphones out of plywood, sound drivers, and wires
 
+<a href="https://github.com/roxiomontes">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/roxiomontes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/roxiomontes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+</a><br>
