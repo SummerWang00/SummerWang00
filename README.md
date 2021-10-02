@@ -5,7 +5,6 @@
 -->
 
 <a href="https://www.linkedin.com/in/xuecen-summer-wang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 - 🔭 I’m currently working on balancing school, work, and cool personal projects
 - 🌱 I’m currently learning Python, C, digital circuit design, and Arduino
