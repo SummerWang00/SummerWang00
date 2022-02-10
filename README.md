@@ -16,7 +16,7 @@
 - 🔭 Hobbies: Piano, Rubik's cube, drinking tea, watching [TwosetViolin](https://www.youtube.com/watch?v=TY_RqaJnQnE)
 - ⚡ Fun fact: I made a pair of custom headphones out of plywood, sound drivers, and wires
 
-<a href="https://github.com/SummerWang00">2gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+<a href="https://github.com/SummerWang00">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SummerWang00&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/SummerWang00">
