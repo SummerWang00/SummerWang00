@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/xuecen-summer-wang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- 🔭 I’m currently pursuing a computer engineering bachelor's and working at NASA Lucy Mission Concept Academy.
+- 🔭 I’m currently pursuing a computer engineering bachelor's and working at NASA Lucy Mission Concept Academy as the deputy project manager.
 - 🤔 I'm working on CICaidA project with my VIP team: https://sites.google.com/stonybrook.edu/3dbmehelp/cicaida?authuser=0
 - 🌱 I’m currently learning Python, Java, C++, digital circuit design, and Arduino.
 - 🤔 I’m looking for a female mentor that works in firmware
