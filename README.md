@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/xuecen-summer-wang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- 🔭 I’m currently pursuing a computer engineering bachelor's, working part-time, and learning at NASA L'SPACE Mission Concept Academy.
+- 🔭 I’m currently pursuing a computer engineering bachelor's and working at NASA Lucy Mission Concept Academy.
 - 🤔 I'm working on CICaidA project with my VIP team: https://sites.google.com/stonybrook.edu/3dbmehelp/cicaida?authuser=0
 - 🌱 I’m currently learning Python, Java, C++, digital circuit design, and Arduino.
 - 🤔 I’m looking for a female mentor that works in firmware
@@ -16,7 +16,7 @@
 - 🔭 Hobbies: Piano, Rubik's cube, drinking tea, watching [TwosetViolin](https://www.youtube.com/watch?v=TY_RqaJnQnE)
 - ⚡ Fun fact: I made a pair of custom headphones out of plywood, sound drivers, and wires
 
-<a href="https://github.com/SummerWang00">
+<a href="https://github.com/SummerWang00">2gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SummerWang00&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/SummerWang00">
