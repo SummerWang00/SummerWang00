@@ -14,7 +14,7 @@ I am now the Vice President of Stony Brook Robotics Team.
 - 📫 How to reach me: summerw1015@gmail.com or @Discord #sleepyhead_Is_Awake#9313
 - 😄 Pronouns: She/her/hers
 - 🔭 Hobbies: Piano, Rubik's cube, drinking tea, yoga, watching [TwosetViolin](https://www.youtube.com/watch?v=TY_RqaJnQnE)
-- ⚡ Fun fact: I made a pair of custom headphones out of plywood, sound drivers, and it broke a couple of times but I managed to fix them!
+- ⚡ Fun fact: I made a pair of custom headphones out of plywood, sound drivers, and it broke a couple of times but I managed to fix them! I was mistaken as a music major because I showed up in music building many times a week :)
 
 <a href="https://github.com/SummerWang00">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SummerWang00&theme=material-palenight" />
